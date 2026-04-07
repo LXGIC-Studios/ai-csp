@@ -1,5 +1,5 @@
 {
-  "name": "ai-csp",
+  "name": "@lxgicstudios/ai-csp",
   "version": "1.0.0",
   "description": "Generate Content Security Policy headers for your site",
   "main": "dist/index.js",
