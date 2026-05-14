@@ -15,41 +15,29 @@
     "build": "tsc"
   },
   "keywords": [
-    "2025-standards",
-    "ai",
-    "ai-2025",
-    "ai-powered",
-    "anthropic",
-    "automation",
-    "claude",
-    "cli",
-    "content-security-policy",
     "csp",
-    "developer-productivity",
-    "developer-tools",
-    "discoverability",
-    "generative-ai",
-    "gpt",
-    "llm-optimized",
-    "modern-seo",
-    "nodejs",
-    "optimization",
-    "performance",
-    "performance-optimization",
     "security",
+    "typescript",
+    "nodejs",
+    "cli",
+    "AI-powered",
+    "AI-optimized",
+    "performance",
+    "optimization",
     "seo",
-    "seo-2026",
-    "typescript"
+    "discoverability",
+    "2025-standards",
+    "modern-seo"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-csp#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-csp#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-csp"
+    "url": "https://github.com/lxgicstudios/ai-csp"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-csp/issues"
+    "url": "https://github.com/lxgicstudios/ai-csp/issues"
   },
   "funding": {
     "type": "github",
