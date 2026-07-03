@@ -37,7 +37,9 @@
     "content-security-policy",
     "security-headers",
     "xss",
-    "web-security"
+    "web-security",
+    "technical-seo",
+    "seo-audit"
   ],
   "license": "MIT",
   "main": "dist/index.js",
